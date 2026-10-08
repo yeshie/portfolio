@@ -27,7 +27,7 @@ export const profile = {
   stats: [
     { value: "1st", label: "Class Honours, BSc CS" },
     { value: "12+", label: "Projects built" },
-    { value: "95%", label: "RAG match accuracy" },
+    { value: "3+", label: "Years building software" },
   ],
 };
 
